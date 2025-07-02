@@ -1,6 +1,6 @@
 # VOTESECURE - Multi-Election Voting Platform
 
-A secure, modern, and user-friendly voting platform built with the MERN stack. NCITHub enables organizations to conduct multiple elections simultaneously with robust security features and real-time results.
+A secure, modern, and user-friendly voting platform built with the MERN stack. VoteSecure enables organizations to conduct multiple elections simultaneously with robust security features and real-time results.
 
 ## 🚀 Features
 
@@ -54,7 +54,7 @@ A secure, modern, and user-friendly voting platform built with the MERN stack. N
 ## 📁 Project Structure
 
 ```
-ncithub-voting-platform/
+fullstack-voting-app/
 ├── backend/                 # Backend API
 │   ├── middleware/         # Authentication & error handling
 │   ├── models/            # Database schemas
