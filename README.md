@@ -86,7 +86,7 @@ ncithub-voting-platform/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd ncithub-voting-platform
+   cd fullstack-voting-app
    ```
 
 2. **Install dependencies**
