@@ -104,7 +104,7 @@ ncithub-voting-platform/
    
    Create `.env` file in the `backend` directory:
    ```env
-   MONGODB_URI=mongodb://localhost:27017/ncithub-voting
+   MONGODB_URI=mongodb://localhost:27017/votesecure-voting
    JWT_SECRET=your-super-secret-jwt-key
    JWT_EXPIRE=7d
    PORT=5000
